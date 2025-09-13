@@ -1,6 +1,10 @@
 # Undertale Car Dealership
 
+Some assets (images, audio) are not included due to size constraints. 
+You can replace them with your own files to run the project fully.
+
 ---
+
 
 ## Description
 
